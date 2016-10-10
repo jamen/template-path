@@ -1,4 +1,4 @@
-# path-template [![NPM version](https://badge.fury.io/js/path-template.svg)](https://npmjs.org/package/path-template) [![Build Status](https://travis-ci.org/Jamen%20Marz/path-template.svg?branch=master)](https://travis-ci.org/Jamen%20Marz/path-template)
+# path-template [![NPM version](https://badge.fury.io/js/path-template.svg)](https://npmjs.org/package/path-template) [![Build Status](https://travis-ci.org/jamen/path-template.svg?branch=master)](https://travis-ci.org/Jamen%20Marz/path-template)
 
 > A template string tag that returns proper absolute paths.
 
