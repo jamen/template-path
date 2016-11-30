@@ -1,6 +1,6 @@
 # template-path
 
-> Normalize template string as a path.
+> Resolve template string as a path
 
 ```js
 const path = require('template-path')
